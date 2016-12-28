@@ -1,3 +1,6 @@
+#Use Karabiner for Mac to change Filco Minila's key set
+#在Mac系统下 用Karabiner改变Filco Minila的(app)键位设置
+
 # Private.xml of Karabiner for Filco Minila
 Map the App key on Filco Minila to Command-R. Because of this "app" key has no use on MacOS.(Only be used in Win8+);
 
